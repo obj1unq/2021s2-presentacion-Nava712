@@ -2,6 +2,11 @@
 
 ## Estudiante: _Navarro Julián_
 
+- Mi nombre es Julián Navarro y tengo 19 años. Soy estudiante de Licenciatura en Informática.
+- Soy fan del color negro y del mate.
+- Me gusta mucho jugar al pool, no me considero re groso, pero voy aprendiendo de a poquito.
+- Toco la guitarra y me gusta bastante todo lo que esté relacionado con la música, considero que es una de las mejores formas de expresión que existen.
+
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
 Consiste en hacer 2 simples tareas:
@@ -15,7 +20,7 @@ Consiste en hacer 2 simples tareas:
 - [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
 Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
 
-- [ ] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
+- [X] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
 ]
 - [ ] **Mirá la presentación de tus compas**. Una vez que terminaste, andá al [Github del curso](https://github.com/obj1unq) y mirá las presentaciones de tus compas. Haceles comentarios en la parte de _Issues_, despus volvé y respondé los issues de tu presentación.
 
